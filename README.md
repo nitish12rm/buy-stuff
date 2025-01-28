@@ -1,11 +1,7 @@
 # E-Commerce Website
 
-A Ecommerce Website made with React.js Framework.
+An Ecommerce Website "Buy Stuff" made with React.js Framework.
 
-
-## Demo
-
-https://reactjs-ecommerce-app.vercel.app/
 
 ## Features
 
@@ -15,7 +11,7 @@ https://reactjs-ecommerce-app.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/9Hym5KJ)
+![App Screenshot](https://i.ibb.co/9Hym5KJ/Screenshot-2025-01-28-at-9-48-50-PM.png)
 
 
 
@@ -53,11 +49,6 @@ Start the server
 * [Redux](https://redux.js.org/)
 * [Bootstrap](https://getbootstrap.com/)
 * [Fake Store API](https://fakestoreapi.com/)
-
-## Contributing
-
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
 
 
 ## Feedback
