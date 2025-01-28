@@ -11,7 +11,7 @@ An Ecommerce Website "Buy Stuff" made with React.js Framework.
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/9Hym5KJ/Screenshot-2025-01-28-at-9-48-50-PM.png)
+![App Screenshot](https://i.ibb.co/s9spYxh/Screenshot-2025-01-28-at-9-48-50-PM.png)
 
 
 
