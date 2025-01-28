@@ -8,13 +8,6 @@ An Ecommerce Website "Buy Stuff" made with React.js Framework.
 - Easy to integrate with Backend
 - Fully Responsive
 
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/s9spYxh/Screenshot-2025-01-28-at-9-48-50-PM.png)
-
-
-
 ## Run Locally
 
 Clone the project
